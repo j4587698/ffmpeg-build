@@ -2,7 +2,7 @@
 
 FFMPEG_VERSION=6.1.1
 FFMPEG_TARBALL=ffmpeg-$FFMPEG_VERSION.tar.bz2
-FFMPEG_TARBALL_URL=http://ffmpeg.org/releases/$FFMPEG_TARBALL
+FFMPEG_TARBALL_URL=https://ffmpeg.org/releases/$FFMPEG_TARBALL
 
 FFMPEG_CONFIGURE_FLAGS=(
     --enable-shared
